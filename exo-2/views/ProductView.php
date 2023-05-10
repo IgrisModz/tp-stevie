@@ -2,5 +2,8 @@
 
 class ProductView
 {
-    
+    public function display()
+    {
+        
+    }
 }
